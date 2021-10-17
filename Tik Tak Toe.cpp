@@ -1,5 +1,5 @@
 //Tik Tak Toe.//
-//Designed And Programmed By Soroush Mehrad.//
+//Designed And Programmed By Soroush Shemshadi.//
 #include <iostream>
 #include <string>
 #include <sstream>
